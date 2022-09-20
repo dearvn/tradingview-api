@@ -1,5 +1,9 @@
 # tradingview-api
-run
+
+![Alt text](https://github.com/dearvn/tradingview-api/raw/main/summary.png?raw=true "Summary")
+
+
+**Run**
 ```
 python -m tradingview-api
 ```
