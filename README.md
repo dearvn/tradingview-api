@@ -2,10 +2,12 @@
 
 Monitoring trend BUY, SELL or NEUTRAL
 
+This script detects keep CALL when trend SELL and otherwise
+
 **CMD**
 ```python -m tradingview-trend CME_MINI:NQ1! 1m```
 
-![Alt text](https://github.com/dearvn/tradingview-api/raw/main/summary.png?raw=true "Summary")
+![Alt text](https://github.com/dearvn/tradingview-api/raw/main/strongsell.png?raw=true "Summary")
 
 
 **Run**
