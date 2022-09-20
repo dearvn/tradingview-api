@@ -9,7 +9,7 @@ python -m tradingview-api
 ```
 
 **Call url from postman**
-```http://0.0.0.0:8080?symbols=NASDAQ:TSLA&screener=america&interval=5m```
+```http://0.0.0.0:8080?symbols=NASDAQ:TSLA&screener=america&interval=5```
 
 **Result**
 
