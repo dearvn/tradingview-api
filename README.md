@@ -1,5 +1,10 @@
 # tradingview-api
 
+Monitoring trend BUY, SELL or NEUTRAL
+
+**CMD**
+```python -m tradingview-trend CME_MINI:NQ1! 1m```
+
 ![Alt text](https://github.com/dearvn/tradingview-api/raw/main/summary.png?raw=true "Summary")
 
 
